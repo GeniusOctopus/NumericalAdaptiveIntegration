@@ -1,0 +1,1 @@
+program to demonstrate the numerical adaptive integration of a function
